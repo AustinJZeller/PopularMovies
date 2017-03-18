@@ -1,8 +1,8 @@
 Popular Movies App
 ==================
 
-A simple Android app, that helps user to discover movies. 
-This is Project 1 & Project 2 of Udacity's Android Developer Nanodegree.
+A simple Android app, that helps a user to discover movies. 
+This is Project 2 of Udacity's Android Developer Nanodegree.
 
 **Features:**
 
