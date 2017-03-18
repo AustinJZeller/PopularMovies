@@ -1,4 +1,4 @@
-Popular Movies App
+Popular Movies App_Stage_2
 ==================
 
 A simple Android app, that helps a user to discover movies. 
