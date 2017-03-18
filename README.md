@@ -25,3 +25,7 @@ This is Project 2 of Udacity's Android Developer Nanodegree.
   3. A plot synopsis (called overview in the api)
   4. user rating (called vote_average in the api)
   5. release date
+
+![Main Screen](/screenshot1.jpg "Main Screen")
+![Main Screen](/screenshot2.jpg "Scrolling")
+![Details Screen](/screenshot3.jpg "Movie Detail")
