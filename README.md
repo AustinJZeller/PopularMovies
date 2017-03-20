@@ -2,7 +2,7 @@ Popular Movies App (Stage 2)
 ==================
 
 A simple Android app, that helps a user to discover movies. 
-This is Project 2 of Udacity's Android Developer Nanodegree.
+This is Project 2 of Udacity's Android Developer Nanodegree, co-created by Google.
 
 **Features:**
 
